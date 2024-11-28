@@ -28,5 +28,5 @@ Welcome to **DragonRockEscape**, a thrilling web-based game where you control a 
 5. **Try Again**: Reload the page to start over and beat your score.
 
 
-![Game Screenshot](DragonRun/dragon_game.png) 
+![Game Screenshot](dragon_game.png) 
 
