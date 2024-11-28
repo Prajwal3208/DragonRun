@@ -26,3 +26,7 @@ Welcome to **DragonRockEscape**, a thrilling web-based game where you control a 
 3. **Avoid Rocks**: Keep the dragon moving and jumping to avoid the rocks coming your way.
 4. **Game Over**: Collision with a rock triggers a *Game Over* screen with a dramatic sound effect and a score display.
 5. **Try Again**: Reload the page to start over and beat your score.
+
+
+
+
